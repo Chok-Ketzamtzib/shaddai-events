@@ -1,0 +1,20 @@
+.home {
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.welcome-header {
+    color: white;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 1), 0px 0px 5px rgba(0, 0, 0, 1);
+    font-family: 'Bad Script', cursive;
+    font-weight: 900;
+    padding: 1rem 0;
+    font-size: 1.5rem;
+    user-select: none;
+}
+
+.App-container{
+    background: url("/img/BG_01.jpg");
+    background-repeat: no-repeat;
+}
