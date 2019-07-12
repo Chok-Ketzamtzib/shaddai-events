@@ -2,7 +2,7 @@
   "homepage": "http://Chok-Ketzamtzib.github.io/react-portfolio",
   "name": "website",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@material-ui/core": "^4.0.1",
     "react": "^16.8.6",
